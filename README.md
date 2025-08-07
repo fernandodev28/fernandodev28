@@ -1,7 +1,9 @@
 # 👨‍💻 Fernando Mendes Oliveira Filho
 
-🎓 Estudante de **Ciência da Computação**  
+🎓 Estudante de **Ciência da Computação**
+
 🚀 Em formação para ser Desenvolvedor Fullstack
+
 ---
 ## 🧠 Em aprendizado
 - Python | JavaScript | HTML | CSS | GML | C   
