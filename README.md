@@ -6,12 +6,11 @@
 
 ---
 ## 🧠 Em aprendizado
-- Python | JavaScript | HTML | CSS | GML | C   
-- Próximos passos: React, Node.js, Django, Banco de Dados
+- Python | C   
+- Próximos passos: Django, Banco de Dados
 ---
 ## 🎯 Objetivo
-- Consolidar uma carreira na área de desenvolvimento de software, atuando no ciclo completo de criação de aplicações
-— do front-end ao back-end — com foco em boas práticas, desempenho e escalabilidade.
+- Consolidar uma carreira na área de desenvolvimento de software, atuando no ciclo de criação - back-end - de aplicações com foco em boas práticas, desempenho e escalabilidade.
 ---
 ## 📂 Repositórios
 - Projetos e estudos em andamento 
